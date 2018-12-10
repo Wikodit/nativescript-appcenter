@@ -1,0 +1,4 @@
+pod 'AppCenter'
+pod 'AppCenter/Analytics'
+pod 'AppCenter/Crashes'
+
